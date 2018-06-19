@@ -1,0 +1,3 @@
+a = 25
+message =str(a) + "is my favorite number!"
+print(message)

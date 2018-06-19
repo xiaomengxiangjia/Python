@@ -1,0 +1,3 @@
+color = 'red'
+print("Is color == 'red'? I guess so.")
+print(color == 'red')
