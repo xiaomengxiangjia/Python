@@ -1,3 +1,0 @@
-name = "nancy chen"
-print(name.title())
-
