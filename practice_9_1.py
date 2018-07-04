@@ -11,8 +11,5 @@ class Resturant():
          print(self.resturant_name.title() + " is opening.")  
 
 my_resturant = Resturant('Delicious', 'cooking')
-print("The resturant's name is " + my_resturant.resturant_name.title() + ".")
-print("The cuisine type is " + my_resturant.cuisine_type.title() + ".")
-
 my_resturant.describe_resturant()
 my_resturant.open_resturant()
