@@ -1,0 +1,5 @@
+In Python you can found class.
+In Python you can found method.
+In Python you can found property.
+In Python you can found a game.
+In Python you can learn much.
